@@ -109,4 +109,10 @@ int main() {
 	my_queue.push_back(6);
 	std::cout << std::endl << my_queue.pop_front();
 	std::cout << std::endl << my_queue.size();
+	std::cout << std::endl << my_queue.front();
+	std::cout << std::endl << my_queue.isempty();
+	my_queue.pop_front();
+	my_queue.pop_front();
+	my_queue.pop_front();
+	std::cout << std::endl << my_queue.isempty();
 }
