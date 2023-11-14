@@ -5,3 +5,4 @@ Should the equation not pass the balanced parenthesis check, the program will ou
 For the Queue class, there is no user input only implementations from within the code. The code is tested by pushing the values 3, 4, 5,and 6 to the queue in that order. The program then outputs the result of pop_front(), and afterward the result of size()
 ![p3](https://github.com/IsaOrtiz08/CS303_proj3/assets/113536391/2ce8bab8-bbee-4bf1-84bf-6138e16de5f1)
 The program then tests the output of front(), isempty() and then once again the result of isempty() after utilizing pop_front() 3 times to clear the queue.
+![p6](https://github.com/IsaOrtiz08/CS303_proj3/assets/113536391/cb4848d8-df91-4a45-ade9-2eb769d8a7b5)
